@@ -39,7 +39,7 @@ Examples of Use:
 Example 1 (Saving a Record): A user inputs a student’s roll number, name, class, birthdate, address, and enrollment date. After entering, the user clicks "Save," which triggers the saveData() function to store the record in JsonPowerDB.
 Example 2 (Updating a Record): The user enters an existing roll number, and the system retrieves the corresponding data. After editing the student’s details, clicking "Update" saves the changes.
 
-Project Status:
+# Project Status:
 The project is currently fully functional with the ability to:
 ![Database](https://github.com/Prateek2384/Micro_project/blob/main/Screenshot%202024-09-30%20033834.png)
 1. Save new student records
