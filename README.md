@@ -41,6 +41,7 @@ Example 2 (Updating a Record): The user enters an existing roll number, and the 
 
 Project Status:
 The project is currently fully functional with the ability to:
+![Database](https://github.com/Prateek2384/Micro_project/blob/main/Screenshot%202024-09-30%20033834.png)
 1. Save new student records
 2. Retrieve records based on the roll number
 3. Update existing records
