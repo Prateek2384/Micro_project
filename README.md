@@ -31,6 +31,7 @@ The dynamic UI ensures that the save, update, and reset buttons are enabled only
 
 # Illustrations:
 Below is an example of the form interface:
+![alt text](Screenshot 2024-09-30 032328.png)
 
 
 
